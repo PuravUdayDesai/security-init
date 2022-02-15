@@ -3,12 +3,12 @@
 </p>
 
 ## Table of Contents
-- Modified Caesar Cipher < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
-- Homophonic Cipher < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
-- Rail Fence Cipher < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
-- Simple Columnar Transposition Cipher < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
-- Simple Columnar Transposition Cipher With Multiple Rounds < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
-- Data Encryption Standard < [assembly]() | [c]() | [cpp]() | [java]() | [kotlin]() | [javascript]() | [python]() | [go]() >
+- **Modified Caesar Cipher** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Homophonic Cipher** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Rail Fence Cipher** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Simple Columnar Transposition Cipher** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Simple Columnar Transposition Cipher With Multiple Rounds** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Data Encryption Standard** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
 
 ## TODO
 - Caesar Cipher
