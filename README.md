@@ -3,12 +3,12 @@
 </p>
 
 ## Table of Contents
-- **Modified Caesar Cipher** *[assembly]() [c]() [cpp]() [java](/java/ModifiedCaesarCipher.java) [kotlin]() [javascript]() [python]() [go]()*
-- **Homophonic Cipher** *[assembly]() [c]() [cpp]() [java](/java/HomophonicCipher.java) [kotlin]() [javascript]() [python]() [go]()*
-- **Rail Fence Cipher** *[assembly]() [c]() [cpp]() [java](/java/RailFenceCipher.java) [kotlin]() [javascript]() [python]() [go]()*
-- **Simple Columnar Transposition Cipher** *[assembly]() [c]() [cpp]() [java](/java/SimpleColumnarTranspositionCipher.java) [kotlin]() [javascript]() [python]() [go]()*
-- **Simple Columnar Transposition Cipher With Multiple Rounds** *[assembly]() [c]() [cpp]() [java](/java/SimpleColumnarTranspositionWithMultipleRoundsCipher.java) [kotlin]() [javascript]() [python]() [go]()*
-- **Data Encryption Standard** *[assembly]() [c]() [cpp]() [java]() [kotlin]() [javascript]() [python]() [go]()*
+- **Modified Caesar Cipher** *[java](/java/ModifiedCaesarCipher.java)*
+- **Homophonic Cipher** *[java](/java/HomophonicCipher.java)*
+- **Rail Fence Cipher** *[java](/java/RailFenceCipher.java)*
+- **Simple Columnar Transposition Cipher** *[java](/java/SimpleColumnarTranspositionCipher.java)*
+- **Simple Columnar Transposition Cipher With Multiple Rounds** *[java](/java/SimpleColumnarTranspositionWithMultipleRoundsCipher.java)*
+- **Data Encryption Standard** *[java]()*
 
 ## TODO
 - Caesar Cipher
