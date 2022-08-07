@@ -80,7 +80,7 @@ For more detailes please click [here(The DES Algorithm Illustrated)](http://page
   * Download and place file `ValidatorLogic.java` under _validator_ folder
 ## Run in Terminal
 Suppose you have create the _des_ folder and its hierarchy under `E:\neoalgo\`
-* Go to `E:\neoalgo\` in terminal
+* Go to `E:\security\` in terminal
 * `SET CLASSPATH=.;E:\neoalgo`
 * For verification of entered CLASSPATH enter `echo %CLASSPATH%`, the CLASSPATH will display in terminal
 ```bash
